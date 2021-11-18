@@ -1,4 +1,4 @@
-module cobraPackage
+module dadjoke
 
 go 1.17
 

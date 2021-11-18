@@ -24,11 +24,11 @@ import (
 	"github.com/spf13/viper"
 )
 
-var cfgFile string 
+var cfgFile string
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "cobraPackage",
+	Use:   "dadjoke",
 	Short: "Get random dad joke in your terminal",
 	Long:  `Dadjoke CLI is a tool that gives you a random dad joke`,
 	// Uncomment the following line if your bare application

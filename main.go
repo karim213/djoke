@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "cobraPackage/cmd"
+import "dadjoke/cmd"
 
 func main() {
 	cmd.Execute()
